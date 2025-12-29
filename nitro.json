@@ -1,0 +1,19 @@
+{
+  "$schema": "https://nitro.margelo.com/nitro.schema.json",
+  "cxxNamespace": [
+    "nitroselectabletext"
+  ],
+  "ios": {
+    "iosModuleName": "NitroSelectableText"
+  },
+  "android": {
+    "androidNamespace": [
+      "nitroselectabletext"
+    ],
+    "androidCxxLibName": "NitroSelectableText"
+  },
+  "autolinking": {},
+  "ignorePaths": [
+    "**/node_modules"
+  ]
+}
